@@ -1,0 +1,8 @@
+datasets
+pandas
+numpy
+seaborn
+matplotlib
+vaderSentiment
+textmonger
+mord
