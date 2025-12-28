@@ -1,3 +1,5 @@
+Update: paused project direction due to doubt about possible ways a persuasiveness metric may be used.
+
 # About
 This AI Safety project started as my capstone for the Research Engineering Camp for Alignment Practitioners (RECAP) program: https://recap.sg/. The project is currently work in progress, please refer to the slides to know what it is about.
 
